@@ -24,9 +24,9 @@
 - Tools: Git, Linux, Jupyter, VS Code
 
 ## 📫 Connect With Me
-- LinkedIn:[www.linkedin.com/in/qiongwei-li-828510255](www.linkedin.com/in/qiongwei-li-828510255)
-- Email:[hermioneper@gmail.com](hermioneper@gmail.com)
-- Portfolio:[https://joeyvivili.github.io](https://joeyvivili.github.io)
+- LinkedIn: [www.linkedin.com/in/qiongwei-li-828510255](www.linkedin.com/in/qiongwei-li-828510255)
+- Email: [hermioneper@gmail.com](hermioneper@gmail.com)
+- Portfolio: [https://joeyvivili.github.io](https://joeyvivili.github.io)
 
 ## 📈 GitHub Stats
 [https://github-readme-stats.vercel.app/api?username=joeyvivili&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=joeyvivili&show_icons=true&theme=radical)
