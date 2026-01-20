@@ -14,12 +14,12 @@
 - Distributed Machine Learning Systems
 
 ## 🛠️ Technical Skills
-Programming: Python, Java, R, SQL, C++
-ML Frameworks: PyTorch, TensorFlow, Scikit-learn
-MLOps: Docker, Kubernetes, MLflow, AWS SageMaker
-Tools: Git, Linux, Jupyter, VS Code
+- Programming: Python, Java, R, SQL, C++
+- ML Frameworks: PyTorch, TensorFlow, Scikit-learn
+- MLOps: Docker, Kubernetes, MLflow, AWS SageMaker
+- Tools: Git, Linux, Jupyter, VS Code
 
 ## 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/qiongwei-li-828510255
-Email: hermioneper@gmail.com
-Portfolio: https://vivili.github.io
+- LinkedIn: www.linkedin.com/in/qiongwei-li-828510255
+- Email: hermioneper@gmail.com
+- Portfolio: https://vivili.github.io
