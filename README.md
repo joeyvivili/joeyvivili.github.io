@@ -5,8 +5,12 @@
 - Relevant Coursework: Linear Algebra, Probability Theory, Numerical Analysis, Machine Learning
 
 ## 💼 Experience
-- **Machine Learning Engineer** @ Ping An Insurance (2023-Present)
-- **Data Science Intern** @ DJI (Summer 2022)
+- **Data Analyst** @ Ping An Insurance (2025-Present)
+- **Data Science Intern** @ DJI (2024)
+- **Quantitative Research Intern** @ China Stock Market & Accounting Research (2023)
+- **Software Engineer Intern** @ DoorDash (2022)
+- **Data Analyst Intern** @ Wuling Motor Co. (2021)
+- **Data Analyst Intern** @ Big Data Bureau of the City of Liuzhou (2020)
 
 ## 🔬 Research Interests
 - Geometric Deep Learning
@@ -23,3 +27,6 @@
 - LinkedIn: www.linkedin.com/in/qiongwei-li-828510255
 - Email: hermioneper@gmail.com
 - Portfolio: https://joeyvivili.github.io
+
+## 📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
