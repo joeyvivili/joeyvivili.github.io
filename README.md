@@ -29,4 +29,4 @@
 - Portfolio: https://joeyvivili.github.io
 
 ## 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=joeyvivili&show_icons=true&theme=radical
